@@ -70,7 +70,7 @@ local WEB_TIMEOUT = bind_add_param('TIMEOUT', 5, 2.0)
 local WEB_SENDFILE_MIN = bind_add_param('SENDFILE_MIN', 6, 100000)
 
 -- LED.lua
-PARAM_TABLE_KEY = 69
+PARAM_TABLE_KEY = 68
 clkpin = 1
 datapin = 2
 
